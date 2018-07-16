@@ -1,0 +1,27 @@
+Kamiler is a coffeescript, typescript, less, stylus and other front-end framework compiler.
+I.QUICK START:
+  1.drag and drop empty folder to create new project
+  2.you will get options like coffeescript , typescript .....
+    and choose your project .
+  3.press compile button to compile your project.
+  4.it will automatically compile your file when file is change.
+  5.for preview or run in browser click run in browser button 
+  6.for manual compilation goto setting and disable or click autocompile checkbox button.
+  7.for minification of output css and javascript file set js binding and css binding   checkbox button
+  8.you can use cdn for front-end frameworks 
+  9.yoc can change localhost port, host, and delay of browser reload 
+
+II.Features
+   1.compile coffeescript, typescript, less, stylus and other front-end framework
+   2.autocompile make easy in compilation
+   3.automatic reload browser
+   4.css ans javascript minification
+   5.edit code 
+   6.get error instant
+   7.syntax highlight for coffeescript,less, html , css ans javascript
+   8.autocompile coffeescript, typescript, less, stylus file directly.
+
+III.Open project :
+    for opening the project drag and drop folder and make sure that you have main html file as a index.html.it will automatically get coffeescript , typescript , less and stylus files .
+
+IV. you can compile coffeescript , typescript , less and stylus file directly . you just need to drag and drop that file and it will automatically generate respected file same name as input file.  
